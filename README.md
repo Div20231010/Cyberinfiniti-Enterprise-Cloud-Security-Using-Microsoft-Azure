@@ -13,23 +13,23 @@ The project aligns technical controls with:
 
 ---
 # 📑 Table Of Contents
-Executive Summary
-Scenario & Objectives
-Scope of Assessment
-Azure Environment Setup
-Methodology & Tooling
-Lab 01 – RBAC Implementation
-Lab 02 – NSG & ASG Segmentation
-Lab 03 – Azure Firewall
-Lab 04 – ACR & AKS Security
-Lab 05 – Service Endpoints & Storage Security
-Lab 06 – Log Analytics & DCR
-Lab 07 – Microsoft Defender for Cloud
-Lab 08 – Just-In-Time VM Access
-Lab 09 – Microsoft Sentinel (SIEM & SOAR)
-Key Findings
-Strategic Recommendations
-Conclusion
+[Executive Summary](#executive-summary)  
+[Scenario & Objectives](#scenario--objectives)  
+[Scope of Assessment](#scope-of-assessment)  
+[Azure Environment Setup](#azure-environment-setup)  
+[Methodology & Tooling](#methodology--tooling)  
+[Lab 01 – RBAC Implementation](#lab-01--rbac-implementation)  
+[Lab 02 – NSG & ASG Segmentation](#lab-02--nsg--asg-segmentation)  
+[Lab 03 – Azure Firewall](#lab-03--azure-firewall)  
+[Lab 04 – ACR & AKS Security](#lab-04--acr--aks-security)  
+[Lab 05 – Service Endpoints & Storage Security](#lab-05--service-endpoints--storage-security)  
+[Lab 06 – Log Analytics & DCR](#lab-06--log-analytics--dcr)  
+[Lab 07 – Microsoft Defender for Cloud](#lab-07--microsoft-defender-for-cloud)  
+[Lab 08 – Just-In-Time VM Access](#lab-08--just-in-time-vm-access)  
+[Lab 09 – Microsoft Sentinel (SIEM & SOAR)](#lab-09--microsoft-sentinel-siem--soar)  
+[Key Findings](#key-findings)  
+[Strategic Recommendations](#strategic-recommendations)  
+[Conclusion](#conclusion)
 
 ---
 # Executive Summary
