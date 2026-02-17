@@ -18,7 +18,7 @@ The project aligns technical controls with:
 [Scope of Assessment](#scope-of-assessment)  
 [Azure Environment Setup](#azure-environment-setup)  
 [Methodology & Tooling](#methodology--tooling)  
-[Lab 01 – RBAC Implementation](#lab-01--role--based-access-control)  
+[Lab 01 – RBAC Implementation](#lab-01--role-based-access-control)  
 [Lab 02 – NSG & ASG Segmentation](#lab-02--nsg--asg-segmentation)  
 [Lab 03 – Azure Firewall](#lab-03--azure-firewall)  
 [Lab 04 – ACR & AKS Security](#lab-04--acr--aks-security)  
