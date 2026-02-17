@@ -23,7 +23,7 @@ The project aligns technical controls with:
 [Lab 03 – Azure Firewall](#lab-03--azure-firewall)  
 [Lab 04 – ACR & AKS Security](#lab-04--acr--aks-security)  
 [Lab 05 – Service Endpoints & Storage Security](#lab-05--service-endpoints--storage-security)  
-[Lab 06 – Log Analytics & DCR](#lab-06--log-analytics--dcr)  
+[Lab 06 – Log Analytics & DCR](#lab-06--log-analytics-&-data-collection-rules)  
 [Lab 07 – Microsoft Defender for Cloud](#lab-07--microsoft-defender-for-cloud)  
 [Lab 08 – Just-In-Time VM Access](#lab-08--just-in-time-vm-access)  
 [Lab 09 – Microsoft Sentinel (SIEM & SOAR)](#lab-09--microsoft-sentinel-siem--soar)  
