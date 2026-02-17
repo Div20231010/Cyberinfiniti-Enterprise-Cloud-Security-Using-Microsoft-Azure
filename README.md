@@ -57,18 +57,22 @@ Primary Objectives:
 - Minimize exposure of management ports
 - Deploy an enterprise‑grade SIEM solution
 - Deliver executive‑level risk insights
+
 ---
 # Scope of Assessment
-The assessment encompassed the deployment and evaluation of the following Azure services:
-• 	Microsoft Entra ID
-• 	Azure Role-Based Access Control (RBAC)
-• 	Azure Monitor & Log Analytics
-• 	Microsoft Defender for Cloud (Plan 2)
-• 	Azure Firewall
-• 	Azure Container Registry (ACR)
-• 	Azure Kubernetes Service (AKS)
-• 	Microsoft Sentinel
-• 	Azure Logic Apps (SOAR)
+
+The assessment encompassed the deployment and evaluation of key Azure security services:
+
+- Microsoft Entra ID
+- Azure Role-Based Access Control (RBAC)
+- Azure Monitor & Log Analytics
+- Microsoft Defender for Cloud (Plan 2)
+- Azure Firewall
+- Azure Container Registry (ACR)
+- Azure Kubernetes Service (AKS)
+- Microsoft Sentinel
+- Azure Logic Apps (SOAR)
+
 All resources were provisioned in the East US region within segmented resource groups under the TEAM8 environment.
 
 ---
