@@ -3,12 +3,13 @@ This repository provides an Enterprise Cloud Security Assessment within a Micros
 
 ---
 # Project Overview
-This repository provides documentation of an Enterprise Cloud Security Assessment performed in a Microsoft Azure production environment. The assessment examines identity governance, access management, monitoring, detection engineering, threat defense, and incident response readiness, leveraging Azure-native security services.
+## Enterprise Cloud Security Assessment
+This repository documents an Enterprise Cloud Security Assessment conducted in a Microsoft Azure production environment. The assessment evaluated identity governance, access management, monitoring, detection engineering, threat defense, and incident response readiness, leveraging Azure-native security services.
 The project aligns technical controls with:
-• 	Zero Trust Architecture
-• 	Least Privilege Enforcement
-• 	Defense-in-Depth Strategy
-• 	SOC Modernization Principles
+- Zero Trust Architecture
+- Least Privilege Enforcement
+- Defense-in-Depth Strategy
+- SOC Modernization Principles
 
 ---
 # 📑 Table Of Contents
@@ -33,20 +34,29 @@ Conclusion
 ---
 # Executive Summary
 This assessment demonstrates how Microsoft Azure security services can be configured and operationalized to defend enterprise cloud workloads.
+
 The environment was evaluated across:
-Identity & Access Management Network Segmentation Cloud Workload Protection Monitoring & Logging Privileged Access Management SIEM & Automated Response Results show significant reduction in attack surface and improved detection maturity through Azure-native integration.
+- Identity & Access Management
+- Network Segmentation
+- Cloud Workload Protection
+- Monitoring & Logging
+- Privileged Access Management
+- SIEM & Automated Response
+
+Results show significant reduction in attack surface and improved detection maturity through Azure-native integration.
 
 ---
 # Scenario & Objectives
-Cyberinfiniti Ltd engaged this assessment to validate its cloud security posture.
-Primary Objectives
-• 	Enforce least‑privilege role‑based access control (RBAC)
-• 	Establish centralized logging and monitoring
-• 	Identify misconfigurations and potential threats
-• 	Minimize exposure of management ports
-• 	Deploy an enterprise‑grade SIEM solution
-• 	Deliver executive‑level risk insights
 
+Cyberinfiniti Ltd engaged this assessment to validate its cloud security posture.
+
+Primary Objectives:
+- Enforce least‑privilege role‑based access control (RBAC)
+- Establish centralized logging and monitoring
+- Identify misconfigurations and potential threats
+- Minimize exposure of management ports
+- Deploy an enterprise‑grade SIEM solution
+- Deliver executive‑level risk insights
 ---
 # Scope of Assessment
 The assessment encompassed the deployment and evaluation of the following Azure services:
