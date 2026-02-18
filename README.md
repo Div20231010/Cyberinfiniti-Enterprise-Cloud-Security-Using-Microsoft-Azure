@@ -19,7 +19,7 @@ The project aligns technical controls with:
 [Azure Environment Setup](#azure-environment-setup)  
 [Methodology & Tooling](#methodology--tooling)  
 [Lab 01 – RBAC Implementation](#lab-01--role-based-access-control-rbac)
-[Lab 02 – NSG & ASG Segmentation](#lab-02--nsg--asg-segmentation)  
+[Lab 02 – NSG & ASG Segmentation](#lab-02--network-security-groups--application-security-groups)  
 [Lab 03 – Azure Firewall](#lab-03--azure-firewall)  
 [Lab 04 – ACR & AKS Security](#lab-04--acr--aks-security)  
 [Lab 05 – Service Endpoints & Storage Security](#lab-05--service-endpoints--storage-security)  
@@ -88,7 +88,7 @@ All resources were provisioned in the East US region within segmented resource g
 - Adoption of the Azure‑native security stack
 
 ---
-# Lab 01 – Role Based Access Control
+# Lab 01 – Role-Based Access Control (RBAC)
 ### 🎯 Objective
 Implement least-privilege access using group-based role assignments.
 
