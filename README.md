@@ -19,7 +19,7 @@ The project aligns technical controls with:
 [Azure Environment Setup](#azure-environment-setup)  
 [Methodology & Tooling](#methodology--tooling)  
 [Lab 01 – Role-Based Access Control (RBAC)](#lab-01--role-based-access-control-rbac)  
-[Lab 02 – Network Security Groups (NSG) & Application Security Groups (ASG)](#lab-02--network-security-groups-nsg--application-security-groups-asg)  
+[Lab 02 – Network Security Groups (NSG) & Application Security Groups (ASG)](#lab-02--network-security-groups--application-security-groups)  
 [Lab 03 – Azure Firewall](#lab-03--azure-firewall)  
 [Lab 04 – ACR & AKS Security](#lab-04--acr--aks-security)  
 [Lab 05 – Service Endpoints & Storage Security](#lab-05--service-endpoints--storage-security)  
